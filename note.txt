@@ -1,0 +1,18 @@
+1st admin adding query:
+INSERT INTO tbl_admin( admin_name, admin_email_address, admin_password, access_label ) 
+VALUES (
+'Neloy Ahmed',  'neloy@yahoo.com',  'md5(123456)', 1
+)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+page selection:
+courses in nav bar will be notice board----
+for notice board page i will use <upcoming-exams-grid.html>----
+
+>>>>>>>>>>>>>>>>>>>>Student Information Menagement System<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+-> when student will log in -- the landing page will be same as login.php page----- the navbar will be tailored to the SIMS...........
+    ->toolbar will contain <student name> and <logout> url.
+    -> footer will be tailored to the SIMS
+    -> students will be able to check their result and accout status.
